@@ -18,5 +18,13 @@ To run the code, navigate to the directory where `main.py` is located and run it
 
 ```bash
 python main.py -d 'data/amp.txt'
+```
+
+## Results
+The training error will be saved in experiment-rankgan.csv, which is a comma-separated values file. The first column contains the training epoch, and the other columns contain scores of metrics at each epoch.
+
+You can obtain the generated sequences in the `save\test_file.txt` file.
+
+The training log will also be printed on the console.
 
 
