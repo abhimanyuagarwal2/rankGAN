@@ -6,11 +6,14 @@ This repository contains the implementation of RankGAN for the generation of ant
 
 Ensure you have Python 3.6 installed on your system. You can download it from [python.org](https://www.python.org/downloads/release/python-360/).
 
-## Installation
+## Creating a Virtual Environment
 
-Clone the repository and install the required packages using the following commands:
+To create a virtual environment and activate it, follow these steps:
 
 ```bash
 git clone https://github.com/shant-kolekar/rankGAN.git
 cd rankGAN
 pip install -r requirements.txt
+```
+
+
